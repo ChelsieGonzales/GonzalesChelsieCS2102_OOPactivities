@@ -9,7 +9,7 @@ class Tempconvert {
         
         double fahrenheit = (celsius*9/5) + 32;
         
-        System.out.print(celsius + " Celsius" + " is " + String.format("%.2f", fahrenheit) + " Fahrenheit");
+        System.out.print(String.format("%.2f",celsius) + " Celsius" + " is " + String.format("%.2f", fahrenheit) + " Fahrenheit");
         
         s.close();
     }
