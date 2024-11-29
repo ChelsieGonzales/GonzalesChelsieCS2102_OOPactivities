@@ -13,6 +13,6 @@ Dive in to this coding journey with me as I tackle each challenge. Here are the 
 |**Lab activity 1**| GettingInputs.java, GettingGreater.java | ✔️Completed|
 |**Lab activity 2**| GetArrayMean.java, MultiplicationTable.java |✔️Completed   |
 |**Lab activity 3**| Artist.java, ArtistDemo.java, Singer.java, Dancer.java, Painter.java, Writer.java| ✔️Completed |
-|**Lab activity 4**|Main.java,Shape.java, Rectangle.java, Square.java, Trinangle.java, ShapeCollection.java|✔️Completed |
+|**Lab activity 4**|Main.java,Shape.java, Rectangle.java, Square.java, Triangle.java, ShapeCollection.java|✔️Completed |
 
 Let's conquer this OOP world together! **Game On!**
