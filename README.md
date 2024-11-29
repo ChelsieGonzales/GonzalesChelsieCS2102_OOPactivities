@@ -1,6 +1,6 @@
 # 💻 **JAVA OOP LAB ADVENTURE** 📔
 
-Welcome to my **Java OOP Journey**. I am Chelsie Gonzales, a passionate **Computer Science student** on a mission to learn the art of **Java and Object-Oriented Programming**. 
+Welcome to my **Java OOP Journey**. I am **Chelsie Gonzales**, a passionate **Computer Science student** on a mission to learn the art of **Java and Object-Oriented Programming**. 
 In this repository, I've documented my journey through various lab activities, each one pushing closer to my goals. ✨🧑‍🎓
 
 Let's embark this journey together! 💗
